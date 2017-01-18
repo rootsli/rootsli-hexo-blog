@@ -4,7 +4,6 @@ date: 2017-01-09 20:12:17
 tags:
 - CSS3
 - pointer-events
-- pointer-events: none
 categories: 前端开发最佳实践
 description: 文章介绍了如何利用CSS3的pointer-events:none属性，完全屏蔽超链接，按钮等的鼠标事件及效果。
 ref: http://www.ruanyifeng.com/blog/2016/04/cors.html
