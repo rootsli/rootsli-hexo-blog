@@ -1,5 +1,5 @@
 ---
-title: HTML5 Server-Sent Events串流的使用
+title: 前端开发最佳实践之HTML5 Server-Sent Events串流的使用
 date: 2017-01-17 20:31:16
 tags:
 - HTML5 串流
