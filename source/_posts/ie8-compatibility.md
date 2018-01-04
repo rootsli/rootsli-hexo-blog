@@ -1,19 +1,16 @@
 ---
-title: 实现兼容ie8+的踩坑路程
-author: 郑美双(917520)
-date: 2017-11-27
+title: 前端开发最佳实践之React兼容IE8+的踩坑总结
+date: 2018-01-04 17:58:04
 tags:
-- ie
-- ie9
-- ie8
-- react
-- 工程院三部一处
-
-categories:
-- 经验总结
+- React 跨域
+- 兼容IE8
+- CORS
+categories: 前端开发最佳实践
+description: 内网的一篇文章，感觉总结不错，转之
+ref: 
 ---
 
-> 最近收到需求抽奖Web版需要兼容ie8+的。于是开始踩坑的路程
+> 最近基于React开发的组件需要兼容IE8+。因此，总结了开发过程中的一些坑。
 
 
 ## ie8，ie9首先考虑跨域问题
