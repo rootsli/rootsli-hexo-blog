@@ -486,6 +486,10 @@ transform-es3-member-expression-literal
 反之亦然
 ```
 
+# 本地调试
+我们开发的组件，都是通过iframe的方式被业务系统所引用。由于在IE下，iframe模拟接入，存在同源限制（即iframe的src地址不能和浏览器里的url地址相同）。
+因此，在IE下调试，需要解决同源问题。我们使用的方式是，通过修改etc\hosts文件，将同一本地IP地址映射到不同的域名下，保证本地地址在IE下可调试。
+
 # 要支持ie8，注意的几个点：
 
 1.webpack要用1.x，2.x不支持ie8了
