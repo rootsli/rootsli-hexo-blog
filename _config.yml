@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: rootesli的博客
+title: rootsli的博客
 subtitle: a monkey a man
 description: 目前主要关注Web前端技术，致力于推进Web应用的前后端分离，web前端组件化，工程化方案。
-author: rootesli
+author: rootsli
 language:
 timezone:
 email: lichbin@hotmail.com
